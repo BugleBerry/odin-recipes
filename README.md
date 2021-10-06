@@ -1,1 +1,1 @@
-This project is a basic project for practicing use of html
+This project is for basic practice of html
