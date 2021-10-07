@@ -1,1 +1,1 @@
-This project is for basic practice of html
+This project is a basic site built to learn the basics of html and css.
